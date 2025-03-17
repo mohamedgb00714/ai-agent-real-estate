@@ -1,0 +1,11 @@
+{
+    "action": "monitor",
+    "location": "Miami, FL",
+    "minPrice": 400000,
+    "maxPrice": 900000,
+    "propertyType": "house",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "frequency": "daily",
+    "notificationEmail": "test@example.com"
+} 

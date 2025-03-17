@@ -1,0 +1,15 @@
+{
+	"actorSpecification": 1,
+	"name": "ai-agent-real-estate",
+	"title": "Real Estate Monitoring Agent",
+	"description": "AI agent for searching and monitoring real estate listings based on user criteria, using specialized Apify actors for property data extraction.",
+	"version": "0.1",
+	"meta": {
+		"templateId": "js-langgraph-agent"
+	},
+	"dockerfile": "./Dockerfile",
+	"environmentVariables": {
+		"OPENAI_API_KEY": "@OPENAI_API_KEY",
+		"APIFY_TOKEN": "@APIFY_TOKEN"
+	}
+}

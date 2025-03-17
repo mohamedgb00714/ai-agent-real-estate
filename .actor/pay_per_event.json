@@ -1,0 +1,42 @@
+{
+    "actor-start": {
+        "eventTitle": "Price for Actor start",
+        "eventDescription": "Flat fee for starting an Actor run.",
+        "eventPriceUsd": 0.1
+    },
+    "task-completed": {
+        "eventTitle": "Price for completing the task",
+        "eventDescription": "Flat fee for completing the task.",
+        "eventPriceUsd": 0.4
+    },
+    "listing-found": {
+        "eventTitle": "Property listing found",
+        "eventDescription": "Fee per property listing found and returned.",
+        "eventPriceUsd": 0.05
+    },
+    "monitor-created": {
+        "eventTitle": "Monitor setup",
+        "eventDescription": "Fee for creating a property monitoring configuration.",
+        "eventPriceUsd": 0.2
+    },
+    "monitor-alert": {
+        "eventTitle": "Monitor alert",
+        "eventDescription": "Fee for sending alerts when monitored properties change.",
+        "eventPriceUsd": 0.1
+    },
+    "fallback-extraction": {
+        "eventTitle": "Fallback extraction",
+        "eventDescription": "Fee for using advanced fallback extraction methods when primary sources fail.",
+        "eventPriceUsd": 0.3
+    },
+    "premium-source": {
+        "eventTitle": "Premium data source",
+        "eventDescription": "Fee for accessing premium real estate data sources.",
+        "eventPriceUsd": 0.5
+    },
+    "data-volume": {
+        "eventTitle": "Data volume",
+        "eventDescription": "Fee based on the volume of processed data (per 100 properties).",
+        "eventPriceUsd": 0.25
+    }
+}

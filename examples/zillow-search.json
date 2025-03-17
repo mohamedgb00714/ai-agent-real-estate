@@ -1,0 +1,11 @@
+{
+    "action": "search",
+    "location": "Seattle, WA",
+    "minPrice": 700000,
+    "maxPrice": 1200000,
+    "propertyType": "house",
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "maxResults": 5,
+    "source": "zillow"
+} 

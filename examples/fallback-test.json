@@ -1,0 +1,14 @@
+{
+    "action": "search",
+    "parameters": {
+        "location": "Denver, CO",
+        "minPrice": 400000,
+        "maxPrice": 700000,
+        "propertyType": "house",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "source": "zillow",
+        "maxResults": 5,
+        "forceFallback": true
+    }
+} 
